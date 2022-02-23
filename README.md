@@ -1,14 +1,14 @@
 # Desafio de Jogo 2D
 Desafio de programação para uma vaga de GameDev
-<!-- 
-Para testar a versão ao vivo, [clique aqui.](https://cursos-e-estudos.github.io/jogo-da-velha/)
-<br> -->
+
+Para testar a versão ao vivo, [clique aqui.](https://cursos-e-estudos.github.io/desafio-prog-jogo2D/)
+<br>
 
 <p align="center">
 <b> Visual desktop </b>
 </p>
 <p align="center">
-  <img width="720" src="ARQUIVOS/exemplo.gif">
+  <img width="720" src="docs/exemplo.gif">
 </p>
 
 ---
